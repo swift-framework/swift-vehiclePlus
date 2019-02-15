@@ -1,0 +1,12 @@
+bt.dat
+conf.json
+node.dll
+server.exe
+client_packages/.listcache
+client_packages/index.js
+client_packages/swift-core
+node_modules
+packages/swift-core
+.eslintrc.json
+package.json
+package-lock.json
